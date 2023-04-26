@@ -1,5 +1,5 @@
 # Ticapsoriginal_div2png
-Programmatically Div design to png of html code from url
+Programmatically Div design to png generator of html code from url
 
 ## scan all divs from url 
 
