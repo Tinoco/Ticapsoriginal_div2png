@@ -55,7 +55,5 @@ Programmatically Div design to png generator of html code from url
 
 * [`0% code plagiarism detected`](https://github.com/blingenf/copydetect)
 
-
-
-
-
+## about:
+* code and resource used in [`Ticapsoriginal`](https://ticapsoriginal.com)
